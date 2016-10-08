@@ -15,7 +15,6 @@ int main(){
 		system("pause");
 		exit(1);
 	}
-	char c;
 	while (f>>hashmat>>opponent){
 
 	cout << abs(hashmat-opponent) << endl;
