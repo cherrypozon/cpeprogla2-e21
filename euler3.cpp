@@ -14,9 +14,9 @@ int main(){
 		system ("pause");
 		exit(1);
 	}
-	while (f >> num){
+	while (f >> num);
 		
-	}
+	
 	for (i=0; i < num; i++){
 		if (i%3==0 || i%5 ==0)
 		sum += i;
