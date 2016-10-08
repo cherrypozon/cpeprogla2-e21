@@ -20,8 +20,6 @@ int main(){
 
 	cout << abs(hashmat-opponent) << endl;
 	}
-	//fclose(fp);
-
 	system ("pause > 0");
 	return 0;
 }
